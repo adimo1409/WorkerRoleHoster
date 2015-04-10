@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "AzureCloudService5", "AzureCloudService5\AzureCloudService5.ccproj", "{844264C4-4852-4BFA-9C65-AE2D995117B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHost", "WebHost\WebHost.csproj", "{D46E9BFB-2696-4159-B81F-BE457C386AAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerHost", "WorkerHost\WorkerHost.csproj", "{B3D22ADF-69C9-473A-ADF7-41692C8DFDFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{844264C4-4852-4BFA-9C65-AE2D995117B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844264C4-4852-4BFA-9C65-AE2D995117B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844264C4-4852-4BFA-9C65-AE2D995117B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844264C4-4852-4BFA-9C65-AE2D995117B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D46E9BFB-2696-4159-B81F-BE457C386AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D46E9BFB-2696-4159-B81F-BE457C386AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D46E9BFB-2696-4159-B81F-BE457C386AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D46E9BFB-2696-4159-B81F-BE457C386AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3D22ADF-69C9-473A-ADF7-41692C8DFDFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D22ADF-69C9-473A-ADF7-41692C8DFDFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D22ADF-69C9-473A-ADF7-41692C8DFDFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D22ADF-69C9-473A-ADF7-41692C8DFDFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

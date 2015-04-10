@@ -1,0 +1,2 @@
+c:\users\cdadoua\documents\visual studio 2012\Projects\AzureCloudService5\AzureCloudService5\bin\Debug\ServiceConfiguration.cscfg
+c:\users\cdadoua\documents\visual studio 2012\Projects\AzureCloudService5\AzureCloudService5\bin\Debug\ServiceDefinition.csdef
